@@ -1,2 +1,3 @@
-# ninja
+# ninja hatodi
 ..
+💖
